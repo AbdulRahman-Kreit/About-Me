@@ -10,6 +10,6 @@ I'm a frontend developer focused on building clean, responsive user interfaces a
 - Studying backend development using Node js & Express js
 
 ### 📬 Connect with me
-- [LinkedIn](your-link)
+- [LinkedIn]([your-link](https://www.linkedin.com/in/abdul-rahman-kreit-758903412))
 - [Portfolio Website](your-link)
 - [Email](abdulrahmankreit@gmail.com)
